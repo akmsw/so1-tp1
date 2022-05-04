@@ -1,4 +1,4 @@
-# Laboratorio I - Sistemas Operativos I
+# Laboratorio Nº1
 
 ## Consigna
 >Instalar alguna distribución del sistema operativo Linux de manera nativa o en una máquina virtual, y documentar el procedimiento y resultado final.
